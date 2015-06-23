@@ -1,3 +1,5 @@
+## 参考其设计的不同网站的抓取以及解析的代码架构.
+
 # Fletcher
 
 [![Build Status](https://travis-ci.org/hulihanapplications/fletcher.png)](http://travis-ci.org/hulihanapplications/fletcher)
